@@ -3,3 +3,4 @@ __pycache__/
 runtime/
 .DS_Store
 *.log
+!data/artifacts/**/*.log

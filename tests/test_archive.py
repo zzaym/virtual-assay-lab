@@ -9,6 +9,17 @@ from streamlit.testing.v1 import AppTest
 ROOT=Path(__file__).resolve().parents[1]
 
 class ArchiveTests(unittest.TestCase):
+    def test_every_downloadable_artifact_is_bundled(self):
+        total=0
+        for row in read_archive("/admin/runs"):
+            for artifact in bundle(row["run_id"])["artifacts"]:
+                path=(ROOT/artifact["url"]).resolve()
+                self.assertTrue(path.is_relative_to((ROOT/"data/artifacts").resolve()))
+                self.assertTrue(path.is_file(),f"Missing published artifact: {artifact['url']}")
+                path.read_bytes()
+                total+=1
+        self.assertGreater(total,0)
+
     def test_all_archived_runs_reconstruct(self):
         runs=read_archive("/admin/runs")
         self.assertEqual(len(runs),35)
