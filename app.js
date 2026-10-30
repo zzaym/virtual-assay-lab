@@ -101,7 +101,7 @@ function renderTrajectory(){
   table('events',state.events.map(e=>({sequence:e.sequence,hours:fmt(e.simulated_hours),type:e.type,plate:e.plate,well:e.well,rationale:e.rationale})),['sequence','hours','type','plate','well','rationale']);
 }
 function renderResults(){
-  const r=state.result;const host=$('result-summary');host.replaceChildren();$('landscape-card').hidden=!r;
+  const r=state.result;const host=$('result-summary');host.replaceChildren();$('landscape-card').hidden=!r;$('benchmark-card').hidden=!r;
   text('result-json',r?JSON.stringify(r,null,2):'Final submission has not happened at this cursor.');
   if(!r){const p=document.createElement('p');p.textContent='Final recommendation and hidden surfaces remain unavailable until the submission event.';host.append(p);empty('confirmation','Advance to submission for confirmation results.');}
   else{
