@@ -1,0 +1,3981 @@
+{
+  "run_id": "84087f9291274421",
+  "seed": 42,
+  "cell": "A375",
+  "status": "active",
+  "phase": "Analyzing results",
+  "simulated_hours": 72.16666666666667,
+  "wells_used": 96,
+  "ctg_inventory_uL": 760.0,
+  "stocks": {
+    "A1": {
+      "drug": 2433,
+      "label": "GDSC-2433",
+      "concentration_uM": 30.07584162,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A2": {
+      "drug": 2433,
+      "label": "GDSC-2433",
+      "concentration_uM": 95.09980997999999,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A3": {
+      "drug": 2433,
+      "label": "GDSC-2433",
+      "concentration_uM": 300.70560078,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A4": {
+      "drug": 2433,
+      "label": "GDSC-2433",
+      "concentration_uM": 950.83110648,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A5": {
+      "drug": 2433,
+      "label": "GDSC-2433",
+      "concentration_uM": 3006.52794378,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A6": {
+      "drug": 2433,
+      "label": "GDSC-2433",
+      "concentration_uM": 9506.64136206,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A7": {
+      "drug": 2433,
+      "label": "GDSC-2433",
+      "concentration_uM": 30060.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A8": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 10.02528054,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A9": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 31.699933319999996,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A10": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 100.23520026,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A11": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 316.94370216000004,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A12": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 1002.17598126,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A13": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 3168.8804506799997,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A14": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 10020.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A15": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 1.00253106,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A16": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 3.16999734,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A17": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 10.02351702,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A18": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 31.694372219999998,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A19": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 100.21759512000001,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A20": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 316.88804106,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A21": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 1002.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A22": {
+      "drug": 2435,
+      "label": "GDSC-2435",
+      "concentration_uM": 10.02528054,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A23": {
+      "drug": 2435,
+      "label": "GDSC-2435",
+      "concentration_uM": 31.699933319999996,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A24": {
+      "drug": 2435,
+      "label": "GDSC-2435",
+      "concentration_uM": 100.23520026,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B1": {
+      "drug": 2435,
+      "label": "GDSC-2435",
+      "concentration_uM": 316.94370216000004,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B2": {
+      "drug": 2435,
+      "label": "GDSC-2435",
+      "concentration_uM": 1002.17598126,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B3": {
+      "drug": 2435,
+      "label": "GDSC-2435",
+      "concentration_uM": 3168.8804506799997,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B4": {
+      "drug": 2435,
+      "label": "GDSC-2435",
+      "concentration_uM": 10020.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B5": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 1.00253106,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B6": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 3.16999734,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B7": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 10.02351702,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B8": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 31.694372219999998,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B9": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 100.21759512000001,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B10": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 316.88804106,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B11": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 1002.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B12": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 10.02528054,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B13": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 31.699933319999996,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B14": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 100.23520026,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B15": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 316.94370216000004,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B16": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 1002.17598126,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B17": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 3168.8804506799997,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B18": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 10020.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B19": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 1.00253106,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B20": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 3.16999734,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B21": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 10.02351702,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B22": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 31.694372219999998,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B23": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 100.21759512000001,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B24": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 316.88804106,
+      "volume_uL": 9.969999999999999,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "C1": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 1002.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "C2": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 0.30076031999999997,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "C3": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 0.9509982,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "C4": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 3.0070521,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "C5": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 9.508308659999999,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "C6": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 30.06528054,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "C7": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 95.06641332,
+      "volume_uL": 9.985,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "C8": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 300.59999999999997,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "P24": {
+      "drug": null,
+      "label": "DMSO",
+      "concentration_uM": 0.0,
+      "volume_uL": 9.279999999999973,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    }
+  },
+  "events": [
+    {
+      "sequence": 0,
+      "type": "reset",
+      "simulated_hours": 0.0,
+      "cell": "A375",
+      "seed": 42
+    },
+    {
+      "sequence": 1,
+      "type": "plate_created",
+      "simulated_hours": 0.0,
+      "plate": "P1",
+      "wells": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A11",
+        "A12",
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9",
+        "C10",
+        "C11",
+        "C12",
+        "D1",
+        "D2",
+        "D3",
+        "D4",
+        "D5",
+        "D6",
+        "D7",
+        "D8",
+        "D9",
+        "D10",
+        "D11",
+        "D12",
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10",
+        "E11",
+        "E12",
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "F6",
+        "F7",
+        "F8",
+        "F9",
+        "F10",
+        "F11",
+        "F12",
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7",
+        "G8",
+        "G9",
+        "G10",
+        "G11",
+        "G12",
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "H5",
+        "H6",
+        "H7",
+        "H8",
+        "H9",
+        "H10",
+        "H11",
+        "H12"
+      ],
+      "blank_wells": [
+        "F7",
+        "F8",
+        "F9",
+        "F10",
+        "F11",
+        "F12",
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G5",
+        "G6"
+      ],
+      "rationale": "Three-level screen of all six supported pairs with matched single drugs, vehicles, and blanks."
+    },
+    {
+      "sequence": 2,
+      "type": "echo_protocol",
+      "simulated_hours": 0.0,
+      "rationale": "Execute three-level screen with 15 nL total DMSO per cell-containing well.",
+      "picklist_csv": "Source Plate Name,Source Plate Type,Source Well,Destination Plate Name,Destination Well,Transfer Volume\nstocks,384LDV_DMSO,A2,P1,A1,7.5\nstocks,384LDV_DMSO,A9,P1,A1,7.5\nstocks,384LDV_DMSO,A4,P1,A2,7.5\nstocks,384LDV_DMSO,A11,P1,A2,7.5\nstocks,384LDV_DMSO,A6,P1,A3,7.5\nstocks,384LDV_DMSO,A13,P1,A3,7.5\nstocks,384LDV_DMSO,A2,P1,A4,7.5\nstocks,384LDV_DMSO,P24,P1,A4,7.5\nstocks,384LDV_DMSO,A4,P1,A5,7.5\nstocks,384LDV_DMSO,P24,P1,A5,7.5\nstocks,384LDV_DMSO,A6,P1,A6,7.5\nstocks,384LDV_DMSO,P24,P1,A6,7.5\nstocks,384LDV_DMSO,A9,P1,A7,7.5\nstocks,384LDV_DMSO,P24,P1,A7,7.5\nstocks,384LDV_DMSO,A11,P1,A8,7.5\nstocks,384LDV_DMSO,P24,P1,A8,7.5\nstocks,384LDV_DMSO,A13,P1,A9,7.5\nstocks,384LDV_DMSO,P24,P1,A9,7.5\nstocks,384LDV_DMSO,A16,P1,A10,7.5\nstocks,384LDV_DMSO,A23,P1,A10,7.5\nstocks,384LDV_DMSO,A18,P1,A11,7.5\nstocks,384LDV_DMSO,B1,P1,A11,7.5\nstocks,384LDV_DMSO,A20,P1,A12,7.5\nstocks,384LDV_DMSO,B3,P1,A12,7.5\nstocks,384LDV_DMSO,A16,P1,B1,7.5\nstocks,384LDV_DMSO,P24,P1,B1,7.5\nstocks,384LDV_DMSO,A18,P1,B2,7.5\nstocks,384LDV_DMSO,P24,P1,B2,7.5\nstocks,384LDV_DMSO,A20,P1,B3,7.5\nstocks,384LDV_DMSO,P24,P1,B3,7.5\nstocks,384LDV_DMSO,A23,P1,B4,7.5\nstocks,384LDV_DMSO,P24,P1,B4,7.5\nstocks,384LDV_DMSO,B1,P1,B5,7.5\nstocks,384LDV_DMSO,P24,P1,B5,7.5\nstocks,384LDV_DMSO,B3,P1,B6,7.5\nstocks,384LDV_DMSO,P24,P1,B6,7.5\nstocks,384LDV_DMSO,B6,P1,B7,7.5\nstocks,384LDV_DMSO,A16,P1,B7,7.5\nstocks,384LDV_DMSO,B8,P1,B8,7.5\nstocks,384LDV_DMSO,A18,P1,B8,7.5\nstocks,384LDV_DMSO,B10,P1,B9,7.5\nstocks,384LDV_DMSO,A20,P1,B9,7.5\nstocks,384LDV_DMSO,B6,P1,B10,7.5\nstocks,384LDV_DMSO,P24,P1,B10,7.5\nstocks,384LDV_DMSO,B8,P1,B11,7.5\nstocks,384LDV_DMSO,P24,P1,B11,7.5\nstocks,384LDV_DMSO,B10,P1,B12,7.5\nstocks,384LDV_DMSO,P24,P1,B12,7.5\nstocks,384LDV_DMSO,A16,P1,C1,7.5\nstocks,384LDV_DMSO,P24,P1,C1,7.5\nstocks,384LDV_DMSO,A18,P1,C2,7.5\nstocks,384LDV_DMSO,P24,P1,C2,7.5\nstocks,384LDV_DMSO,A20,P1,C3,7.5\nstocks,384LDV_DMSO,P24,P1,C3,7.5\nstocks,384LDV_DMSO,B13,P1,C4,7.5\nstocks,384LDV_DMSO,A9,P1,C4,7.5\nstocks,384LDV_DMSO,B15,P1,C5,7.5\nstocks,384LDV_DMSO,A11,P1,C5,7.5\nstocks,384LDV_DMSO,B17,P1,C6,7.5\nstocks,384LDV_DMSO,A13,P1,C6,7.5\nstocks,384LDV_DMSO,B13,P1,C7,7.5\nstocks,384LDV_DMSO,P24,P1,C7,7.5\nstocks,384LDV_DMSO,B15,P1,C8,7.5\nstocks,384LDV_DMSO,P24,P1,C8,7.5\nstocks,384LDV_DMSO,B17,P1,C9,7.5\nstocks,384LDV_DMSO,P24,P1,C9,7.5\nstocks,384LDV_DMSO,A9,P1,C10,7.5\nstocks,384LDV_DMSO,P24,P1,C10,7.5\nstocks,384LDV_DMSO,A11,P1,C11,7.5\nstocks,384LDV_DMSO,P24,P1,C11,7.5\nstocks,384LDV_DMSO,A13,P1,C12,7.5\nstocks,384LDV_DMSO,P24,P1,C12,7.5\nstocks,384LDV_DMSO,B13,P1,D1,7.5\nstocks,384LDV_DMSO,B20,P1,D1,7.5\nstocks,384LDV_DMSO,B15,P1,D2,7.5\nstocks,384LDV_DMSO,B22,P1,D2,7.5\nstocks,384LDV_DMSO,B17,P1,D3,7.5\nstocks,384LDV_DMSO,B24,P1,D3,7.5\nstocks,384LDV_DMSO,B13,P1,D4,7.5\nstocks,384LDV_DMSO,P24,P1,D4,7.5\nstocks,384LDV_DMSO,B15,P1,D5,7.5\nstocks,384LDV_DMSO,P24,P1,D5,7.5\nstocks,384LDV_DMSO,B17,P1,D6,7.5\nstocks,384LDV_DMSO,P24,P1,D6,7.5\nstocks,384LDV_DMSO,B20,P1,D7,7.5\nstocks,384LDV_DMSO,P24,P1,D7,7.5\nstocks,384LDV_DMSO,B22,P1,D8,7.5\nstocks,384LDV_DMSO,P24,P1,D8,7.5\nstocks,384LDV_DMSO,B24,P1,D9,7.5\nstocks,384LDV_DMSO,P24,P1,D9,7.5\nstocks,384LDV_DMSO,B20,P1,D10,7.5\nstocks,384LDV_DMSO,C3,P1,D10,7.5\nstocks,384LDV_DMSO,B22,P1,D11,7.5\nstocks,384LDV_DMSO,C5,P1,D11,7.5\nstocks,384LDV_DMSO,B24,P1,D12,7.5\nstocks,384LDV_DMSO,C7,P1,D12,7.5\nstocks,384LDV_DMSO,B20,P1,E1,7.5\nstocks,384LDV_DMSO,P24,P1,E1,7.5\nstocks,384LDV_DMSO,B22,P1,E2,7.5\nstocks,384LDV_DMSO,P24,P1,E2,7.5\nstocks,384LDV_DMSO,B24,P1,E3,7.5\nstocks,384LDV_DMSO,P24,P1,E3,7.5\nstocks,384LDV_DMSO,C3,P1,E4,7.5\nstocks,384LDV_DMSO,P24,P1,E4,7.5\nstocks,384LDV_DMSO,C5,P1,E5,7.5\nstocks,384LDV_DMSO,P24,P1,E5,7.5\nstocks,384LDV_DMSO,C7,P1,E6,7.5\nstocks,384LDV_DMSO,P24,P1,E6,7.5\nstocks,384LDV_DMSO,P24,P1,E7,15.0\nstocks,384LDV_DMSO,P24,P1,E8,15.0\nstocks,384LDV_DMSO,P24,P1,E9,15.0\nstocks,384LDV_DMSO,P24,P1,E10,15.0\nstocks,384LDV_DMSO,P24,P1,E11,15.0\nstocks,384LDV_DMSO,P24,P1,E12,15.0\nstocks,384LDV_DMSO,P24,P1,F1,15.0\nstocks,384LDV_DMSO,P24,P1,F2,15.0\nstocks,384LDV_DMSO,P24,P1,F3,15.0\nstocks,384LDV_DMSO,P24,P1,F4,15.0\nstocks,384LDV_DMSO,P24,P1,F5,15.0\nstocks,384LDV_DMSO,P24,P1,F6,15.0\n",
+      "transfer_count": 120
+    },
+    {
+      "sequence": 3,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 1,
+      "source": "A2",
+      "plate": "P1",
+      "well": "A1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 4,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 2,
+      "source": "A9",
+      "plate": "P1",
+      "well": "A1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 5,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 3,
+      "source": "A4",
+      "plate": "P1",
+      "well": "A2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 6,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 4,
+      "source": "A11",
+      "plate": "P1",
+      "well": "A2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 7,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 5,
+      "source": "A6",
+      "plate": "P1",
+      "well": "A3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 8,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 6,
+      "source": "A13",
+      "plate": "P1",
+      "well": "A3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 9,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 7,
+      "source": "A2",
+      "plate": "P1",
+      "well": "A4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 10,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 8,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 11,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 9,
+      "source": "A4",
+      "plate": "P1",
+      "well": "A5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 12,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 10,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 13,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 11,
+      "source": "A6",
+      "plate": "P1",
+      "well": "A6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 14,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 12,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 15,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 13,
+      "source": "A9",
+      "plate": "P1",
+      "well": "A7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 16,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 14,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 17,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 15,
+      "source": "A11",
+      "plate": "P1",
+      "well": "A8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 18,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 16,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 19,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 17,
+      "source": "A13",
+      "plate": "P1",
+      "well": "A9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 20,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 18,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 21,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 19,
+      "source": "A16",
+      "plate": "P1",
+      "well": "A10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 22,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 20,
+      "source": "A23",
+      "plate": "P1",
+      "well": "A10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 23,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 21,
+      "source": "A18",
+      "plate": "P1",
+      "well": "A11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 24,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 22,
+      "source": "B1",
+      "plate": "P1",
+      "well": "A11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 25,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 23,
+      "source": "A20",
+      "plate": "P1",
+      "well": "A12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 26,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 24,
+      "source": "B3",
+      "plate": "P1",
+      "well": "A12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 27,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 25,
+      "source": "A16",
+      "plate": "P1",
+      "well": "B1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 28,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 26,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 29,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 27,
+      "source": "A18",
+      "plate": "P1",
+      "well": "B2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 30,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 28,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 31,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 29,
+      "source": "A20",
+      "plate": "P1",
+      "well": "B3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 32,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 30,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 33,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 31,
+      "source": "A23",
+      "plate": "P1",
+      "well": "B4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 34,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 32,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 35,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 33,
+      "source": "B1",
+      "plate": "P1",
+      "well": "B5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 36,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 34,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 37,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 35,
+      "source": "B3",
+      "plate": "P1",
+      "well": "B6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 38,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 36,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 39,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 37,
+      "source": "B6",
+      "plate": "P1",
+      "well": "B7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 40,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 38,
+      "source": "A16",
+      "plate": "P1",
+      "well": "B7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 41,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 39,
+      "source": "B8",
+      "plate": "P1",
+      "well": "B8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 42,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 40,
+      "source": "A18",
+      "plate": "P1",
+      "well": "B8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 43,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 41,
+      "source": "B10",
+      "plate": "P1",
+      "well": "B9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 44,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 42,
+      "source": "A20",
+      "plate": "P1",
+      "well": "B9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 45,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 43,
+      "source": "B6",
+      "plate": "P1",
+      "well": "B10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 46,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 44,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 47,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 45,
+      "source": "B8",
+      "plate": "P1",
+      "well": "B11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 48,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 46,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 49,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 47,
+      "source": "B10",
+      "plate": "P1",
+      "well": "B12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 50,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 48,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 51,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 49,
+      "source": "A16",
+      "plate": "P1",
+      "well": "C1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 52,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 50,
+      "source": "P24",
+      "plate": "P1",
+      "well": "C1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 53,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 51,
+      "source": "A18",
+      "plate": "P1",
+      "well": "C2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 54,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 52,
+      "source": "P24",
+      "plate": "P1",
+      "well": "C2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 55,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 53,
+      "source": "A20",
+      "plate": "P1",
+      "well": "C3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 56,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 54,
+      "source": "P24",
+      "plate": "P1",
+      "well": "C3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 57,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 55,
+      "source": "B13",
+      "plate": "P1",
+      "well": "C4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 58,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 56,
+      "source": "A9",
+      "plate": "P1",
+      "well": "C4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 59,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 57,
+      "source": "B15",
+      "plate": "P1",
+      "well": "C5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 60,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 58,
+      "source": "A11",
+      "plate": "P1",
+      "well": "C5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 61,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 59,
+      "source": "B17",
+      "plate": "P1",
+      "well": "C6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 62,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 60,
+      "source": "A13",
+      "plate": "P1",
+      "well": "C6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 63,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 61,
+      "source": "B13",
+      "plate": "P1",
+      "well": "C7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 64,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 62,
+      "source": "P24",
+      "plate": "P1",
+      "well": "C7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 65,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 63,
+      "source": "B15",
+      "plate": "P1",
+      "well": "C8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 66,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 64,
+      "source": "P24",
+      "plate": "P1",
+      "well": "C8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 67,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 65,
+      "source": "B17",
+      "plate": "P1",
+      "well": "C9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 68,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 66,
+      "source": "P24",
+      "plate": "P1",
+      "well": "C9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 69,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 67,
+      "source": "A9",
+      "plate": "P1",
+      "well": "C10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 70,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 68,
+      "source": "P24",
+      "plate": "P1",
+      "well": "C10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 71,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 69,
+      "source": "A11",
+      "plate": "P1",
+      "well": "C11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 72,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 70,
+      "source": "P24",
+      "plate": "P1",
+      "well": "C11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 73,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 71,
+      "source": "A13",
+      "plate": "P1",
+      "well": "C12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 74,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 72,
+      "source": "P24",
+      "plate": "P1",
+      "well": "C12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 75,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 73,
+      "source": "B13",
+      "plate": "P1",
+      "well": "D1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 76,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 74,
+      "source": "B20",
+      "plate": "P1",
+      "well": "D1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 77,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 75,
+      "source": "B15",
+      "plate": "P1",
+      "well": "D2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 78,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 76,
+      "source": "B22",
+      "plate": "P1",
+      "well": "D2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 79,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 77,
+      "source": "B17",
+      "plate": "P1",
+      "well": "D3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 80,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 78,
+      "source": "B24",
+      "plate": "P1",
+      "well": "D3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 81,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 79,
+      "source": "B13",
+      "plate": "P1",
+      "well": "D4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 82,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 80,
+      "source": "P24",
+      "plate": "P1",
+      "well": "D4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 83,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 81,
+      "source": "B15",
+      "plate": "P1",
+      "well": "D5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 84,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 82,
+      "source": "P24",
+      "plate": "P1",
+      "well": "D5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 85,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 83,
+      "source": "B17",
+      "plate": "P1",
+      "well": "D6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 86,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 84,
+      "source": "P24",
+      "plate": "P1",
+      "well": "D6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 87,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 85,
+      "source": "B20",
+      "plate": "P1",
+      "well": "D7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 88,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 86,
+      "source": "P24",
+      "plate": "P1",
+      "well": "D7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 89,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 87,
+      "source": "B22",
+      "plate": "P1",
+      "well": "D8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 90,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 88,
+      "source": "P24",
+      "plate": "P1",
+      "well": "D8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 91,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 89,
+      "source": "B24",
+      "plate": "P1",
+      "well": "D9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 92,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 90,
+      "source": "P24",
+      "plate": "P1",
+      "well": "D9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 93,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 91,
+      "source": "B20",
+      "plate": "P1",
+      "well": "D10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 94,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 92,
+      "source": "C3",
+      "plate": "P1",
+      "well": "D10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 95,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 93,
+      "source": "B22",
+      "plate": "P1",
+      "well": "D11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 96,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 94,
+      "source": "C5",
+      "plate": "P1",
+      "well": "D11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 97,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 95,
+      "source": "B24",
+      "plate": "P1",
+      "well": "D12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 98,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 96,
+      "source": "C7",
+      "plate": "P1",
+      "well": "D12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 99,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 97,
+      "source": "B20",
+      "plate": "P1",
+      "well": "E1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 100,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 98,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 101,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 99,
+      "source": "B22",
+      "plate": "P1",
+      "well": "E2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 102,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 100,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 103,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 101,
+      "source": "B24",
+      "plate": "P1",
+      "well": "E3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 104,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 102,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 105,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 103,
+      "source": "C3",
+      "plate": "P1",
+      "well": "E4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 106,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 104,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 107,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 105,
+      "source": "C5",
+      "plate": "P1",
+      "well": "E5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 108,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 106,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 109,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 107,
+      "source": "C7",
+      "plate": "P1",
+      "well": "E6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 110,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 108,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 111,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 109,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E7",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 112,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 110,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E8",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 113,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 111,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E9",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 114,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 112,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E10",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 115,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 113,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E11",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 116,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 114,
+      "source": "P24",
+      "plate": "P1",
+      "well": "E12",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 117,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 115,
+      "source": "P24",
+      "plate": "P1",
+      "well": "F1",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 118,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 116,
+      "source": "P24",
+      "plate": "P1",
+      "well": "F2",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 119,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 117,
+      "source": "P24",
+      "plate": "P1",
+      "well": "F3",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 120,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 118,
+      "source": "P24",
+      "plate": "P1",
+      "well": "F4",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 121,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 119,
+      "source": "P24",
+      "plate": "P1",
+      "well": "F5",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 122,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 120,
+      "source": "P24",
+      "plate": "P1",
+      "well": "F6",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 123,
+      "type": "echo_protocol",
+      "simulated_hours": 0.0,
+      "rationale": "Backfill the 18 accidentally allocated unused cell wells with vehicle solvent to satisfy the 15 nL DMSO rule.",
+      "picklist_csv": "Source Plate Name,Source Plate Type,Source Well,Destination Plate Name,Destination Well,Transfer Volume\nstocks,384LDV_DMSO,P24,P1,G7,15.0\nstocks,384LDV_DMSO,P24,P1,G8,15.0\nstocks,384LDV_DMSO,P24,P1,G9,15.0\nstocks,384LDV_DMSO,P24,P1,G10,15.0\nstocks,384LDV_DMSO,P24,P1,G11,15.0\nstocks,384LDV_DMSO,P24,P1,G12,15.0\nstocks,384LDV_DMSO,P24,P1,H1,15.0\nstocks,384LDV_DMSO,P24,P1,H2,15.0\nstocks,384LDV_DMSO,P24,P1,H3,15.0\nstocks,384LDV_DMSO,P24,P1,H4,15.0\nstocks,384LDV_DMSO,P24,P1,H5,15.0\nstocks,384LDV_DMSO,P24,P1,H6,15.0\nstocks,384LDV_DMSO,P24,P1,H7,15.0\nstocks,384LDV_DMSO,P24,P1,H8,15.0\nstocks,384LDV_DMSO,P24,P1,H9,15.0\nstocks,384LDV_DMSO,P24,P1,H10,15.0\nstocks,384LDV_DMSO,P24,P1,H11,15.0\nstocks,384LDV_DMSO,P24,P1,H12,15.0\n",
+      "transfer_count": 18
+    },
+    {
+      "sequence": 124,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 1,
+      "source": "P24",
+      "plate": "P1",
+      "well": "G7",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 125,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 2,
+      "source": "P24",
+      "plate": "P1",
+      "well": "G8",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 126,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 3,
+      "source": "P24",
+      "plate": "P1",
+      "well": "G9",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 127,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 4,
+      "source": "P24",
+      "plate": "P1",
+      "well": "G10",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 128,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 5,
+      "source": "P24",
+      "plate": "P1",
+      "well": "G11",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 129,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 6,
+      "source": "P24",
+      "plate": "P1",
+      "well": "G12",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 130,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 7,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H1",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 131,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 8,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H2",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 132,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 9,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H3",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 133,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 10,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H4",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 134,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 11,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H5",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 135,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 12,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H6",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 136,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 13,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H7",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 137,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 14,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H8",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 138,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 15,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H9",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 139,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 16,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H10",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 140,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 17,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H11",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 141,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 18,
+      "source": "P24",
+      "plate": "P1",
+      "well": "H12",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 142,
+      "type": "incubated",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "hours": 72,
+      "temperature_C": 37,
+      "co2_percent": 5,
+      "rationale": "Standard 72 hour A375 viability exposure after solvent backfill."
+    },
+    {
+      "sequence": 143,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A1",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 144,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A2",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 145,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A3",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 146,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A4",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 147,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A5",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 148,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A6",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 149,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A7",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 150,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A8",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 151,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A9",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 152,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A10",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 153,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A11",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 154,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "A12",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 155,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B1",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 156,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B2",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 157,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B3",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 158,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B4",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 159,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B5",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 160,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B6",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 161,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B7",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 162,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B8",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 163,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B9",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 164,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B10",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 165,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B11",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 166,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "B12",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 167,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C1",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 168,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C2",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 169,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C3",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 170,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C4",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 171,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C5",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 172,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C6",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 173,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C7",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 174,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C8",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 175,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C9",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 176,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C10",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 177,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C11",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 178,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "C12",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 179,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D1",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 180,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D2",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 181,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D3",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 182,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D4",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 183,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D5",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 184,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D6",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 185,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D7",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 186,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D8",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 187,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D9",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 188,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D10",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 189,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D11",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 190,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "D12",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 191,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E1",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 192,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E2",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 193,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E3",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 194,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E4",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 195,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E5",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 196,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E6",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 197,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E7",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 198,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E8",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 199,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E9",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 200,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E10",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 201,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E11",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 202,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "E12",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 203,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F1",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 204,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F2",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 205,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F3",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 206,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F4",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 207,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F5",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 208,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F6",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 209,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F7",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 210,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F8",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 211,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F9",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 212,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F10",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 213,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F11",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 214,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "F12",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 215,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G1",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 216,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G2",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 217,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G3",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 218,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G4",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 219,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G5",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 220,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G6",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 221,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G7",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 222,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G8",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 223,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G9",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 224,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G10",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 225,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G11",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 226,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "G12",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 227,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H1",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 228,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H2",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 229,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H3",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 230,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H4",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 231,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H5",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 232,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H6",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 233,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H7",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 234,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H8",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 235,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H9",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 236,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H10",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 237,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H11",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 238,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P1",
+      "well": "H12",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 239,
+      "type": "detection_ready",
+      "simulated_hours": 72.16666666666667,
+      "plate": "P1",
+      "minutes": 10
+    },
+    {
+      "sequence": 240,
+      "type": "plate_read",
+      "simulated_hours": 72.16666666666667,
+      "plate": "P1",
+      "driver": "PyLabRobot 0.2.2 PlateReader.read_luminescence",
+      "measurement_id": "P1-endpoint",
+      "well_count": 96
+    }
+  ],
+  "result": null,
+  "plates": {
+    "P1": {
+      "name": "P1",
+      "stage": "read",
+      "created_after_reads": 0,
+      "wells": {
+        "A1": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2433": 0.7132485748499999,
+            "2434": 0.23774949989999997
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 28878.26630070358
+        },
+        "A2": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2433": 7.1312332986,
+            "2434": 2.3770777662000007
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 25842.423531890174
+        },
+        "A3": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2433": 71.29981021545,
+            "2434": 23.766603380099998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 25309.316518545435
+        },
+        "A4": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2433": 0.7132485748499999
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 25986.803283479912
+        },
+        "A5": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2433": 7.1312332986
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 27255.618811033375
+        },
+        "A6": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2433": 71.29981021545
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 27133.92397216853
+        },
+        "A7": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.23774949989999997
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 25712.15719494247
+        },
+        "A8": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 2.3770777662000007
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26073.078188074913
+        },
+        "A9": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 23.766603380099998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 24559.70860404785
+        },
+        "A10": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.02377498005,
+            "2435": 0.23774949989999997
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 27483.123449612784
+        },
+        "A11": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.23770779165,
+            "2435": 2.3770777662000007
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26304.676103131056
+        },
+        "A12": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 2.37666030795,
+            "2435": 23.766603380099998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 13524.22121171102
+        },
+        "B1": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.02377498005
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 28739.708851481035
+        },
+        "B2": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.23770779165
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 27699.8878410729
+        },
+        "B3": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 2.37666030795
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26023.120217257747
+        },
+        "B4": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2435": 0.23774949989999997
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26272.064244733527
+        },
+        "B5": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2435": 2.3770777662000007
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26702.85513089626
+        },
+        "B6": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2435": 23.766603380099998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 19174.459677778344
+        },
+        "B7": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.02377498005,
+            "2429": 0.02377498005
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 27984.674530819946
+        },
+        "B8": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.23770779165,
+            "2429": 0.23770779165
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26898.18002997691
+        },
+        "B9": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 2.37666030795,
+            "2429": 2.37666030795
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 19784.874480618426
+        },
+        "B10": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.02377498005
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 25848.206217618776
+        },
+        "B11": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.23770779165
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 27518.54592838862
+        },
+        "B12": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 2.37666030795
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 20615.76669316168
+        },
+        "C1": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.02377498005
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26625.36376303155
+        },
+        "C2": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.23770779165
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 24421.831214640624
+        },
+        "C3": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 2.37666030795
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 25884.285996123188
+        },
+        "C4": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.23774949989999997,
+            "2434": 0.23774949989999997
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 27138.861719319368
+        },
+        "C5": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 2.3770777662000007,
+            "2434": 2.3770777662000007
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 25829.27538766936
+        },
+        "C6": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 23.766603380099998,
+            "2434": 23.766603380099998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26266.849898501554
+        },
+        "C7": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.23774949989999997
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 25416.379027992287
+        },
+        "C8": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 2.3770777662000007
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26988.671883633415
+        },
+        "C9": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 23.766603380099998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 23136.218088700323
+        },
+        "C10": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.23774949989999997
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26654.836464886277
+        },
+        "C11": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 2.3770777662000007
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26536.9511000988
+        },
+        "C12": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 23.766603380099998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 25287.55984641371
+        },
+        "D1": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.23774949989999997,
+            "2431": 0.02377498005
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 22881.901931615386
+        },
+        "D2": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 2.3770777662000007,
+            "2431": 0.23770779165
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 24376.43402615779
+        },
+        "D3": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 23.766603380099998,
+            "2431": 2.37666030795
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 5623.546802655106
+        },
+        "D4": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.23774949989999997
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 26483.452510733685
+        },
+        "D5": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 2.3770777662000007
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 24816.35320711665
+        },
+        "D6": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 23.766603380099998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 24485.31738782753
+        },
+        "D7": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.02377498005
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 31226.084768967914
+        },
+        "D8": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.23770779165
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 23377.95743161906
+        },
+        "D9": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 2.37666030795
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 10715.87930276813
+        },
+        "D10": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.02377498005,
+            "2574": 0.0071324865
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 25400.81080475044
+        },
+        "D11": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.23770779165,
+            "2574": 0.07131231494999998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 9089.46066393942
+        },
+        "D12": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 2.37666030795,
+            "2574": 0.7129980999
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 3241.47271668952
+        },
+        "E1": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.02377498005
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 27848.254813458218
+        },
+        "E2": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.23770779165
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 25991.775945079487
+        },
+        "E3": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 2.37666030795
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 9110.798542819628
+        },
+        "E4": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2574": 0.0071324865
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 24760.89547611128
+        },
+        "E5": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2574": 0.07131231494999998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 9524.105469084454
+        },
+        "E6": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2574": 0.7129980999
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 4360.300403368247
+        },
+        "E7": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 28122.72090082501
+        },
+        "E8": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 25456.023932621552
+        },
+        "E9": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 29736.303446161546
+        },
+        "E10": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 27294.182995881434
+        },
+        "E11": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 26134.858504885724
+        },
+        "E12": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 27648.613787383536
+        },
+        "F1": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 27248.86650284899
+        },
+        "F2": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 30175.160871595068
+        },
+        "F3": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 27328.365644186644
+        },
+        "F4": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 29525.798255385176
+        },
+        "F5": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 26321.440461135833
+        },
+        "F6": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 30211.16686714669
+        },
+        "F7": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 0.0
+        },
+        "F8": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 351.914300445129
+        },
+        "F9": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 0.0
+        },
+        "F10": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 2554.5350201924384
+        },
+        "F11": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 0.0
+        },
+        "F12": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 1611.9022064734104
+        },
+        "G1": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 1928.1735416672905
+        },
+        "G2": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 0.0
+        },
+        "G3": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 1873.581166099077
+        },
+        "G4": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 1162.0637437783687
+        },
+        "G5": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 2217.53349580845
+        },
+        "G6": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 2.708650185783654
+        },
+        "G7": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 24679.575740118653
+        },
+        "G8": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 26272.291953610664
+        },
+        "G9": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 27146.698054755616
+        },
+        "G10": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 26814.2771974542
+        },
+        "G11": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 29863.483716347026
+        },
+        "G12": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 28898.352164547527
+        },
+        "H1": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 24476.738198784904
+        },
+        "H2": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 25590.237199225463
+        },
+        "H3": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 27310.46253253595
+        },
+        "H4": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 26833.958755297048
+        },
+        "H5": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 27537.596392051622
+        },
+        "H6": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 25981.651706338234
+        },
+        "H7": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 30430.41647316464
+        },
+        "H8": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 27917.69282689153
+        },
+        "H9": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 25651.64662891017
+        },
+        "H10": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 26822.19380562961
+        },
+        "H11": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 28054.5876455141
+        },
+        "H12": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 27640.8834213358
+        }
+      }
+    }
+  },
+  "pairs": [
+    {
+      "pair_id": "D2433+D2434",
+      "drug_a": 2433,
+      "drug_b": 2434,
+      "dose_a_range_uM": [
+        0.03001581,
+        30.0
+      ],
+      "dose_b_range_uM": [
+        0.01000527,
+        10.0
+      ]
+    },
+    {
+      "pair_id": "D2429+D2435",
+      "drug_a": 2429,
+      "drug_b": 2435,
+      "dose_a_range_uM": [
+        0.00100053,
+        1.0
+      ],
+      "dose_b_range_uM": [
+        0.01000527,
+        10.0
+      ]
+    },
+    {
+      "pair_id": "D2428+D2429",
+      "drug_a": 2428,
+      "drug_b": 2429,
+      "dose_a_range_uM": [
+        0.00100053,
+        1.0
+      ],
+      "dose_b_range_uM": [
+        0.00100053,
+        1.0
+      ]
+    },
+    {
+      "pair_id": "D2430+D2434",
+      "drug_a": 2430,
+      "drug_b": 2434,
+      "dose_a_range_uM": [
+        0.01000527,
+        10.0
+      ],
+      "dose_b_range_uM": [
+        0.01000527,
+        10.0
+      ]
+    },
+    {
+      "pair_id": "D2430+D2431",
+      "drug_a": 2430,
+      "drug_b": 2431,
+      "dose_a_range_uM": [
+        0.01000527,
+        10.0
+      ],
+      "dose_b_range_uM": [
+        0.00100053,
+        1.0
+      ]
+    },
+    {
+      "pair_id": "D2431+D2574",
+      "drug_a": 2431,
+      "drug_b": 2574,
+      "dose_a_range_uM": [
+        0.00100053,
+        1.0
+      ],
+      "dose_b_range_uM": [
+        0.00030016,
+        0.3
+      ]
+    }
+  ],
+  "remaining_wells": 192,
+  "remaining_plates": 2,
+  "rules": {
+    "max_plates": 3,
+    "new_wells_per_plate": 96,
+    "total_wells": 288,
+    "plate_capacity": 1536,
+    "initial_media_uL": 7.5,
+    "dmso_transfer_nL": 15.0,
+    "echo_increment_nL": 2.5,
+    "temperature_C": 37.0,
+    "CO2_percent": 5.0,
+    "exposure_hours": 72.0,
+    "ctg_uL": 2.5,
+    "ctg_wait_minutes": 10,
+    "confirmation_replicates": 3,
+    "score": "100*max(0,HSA benefit), only if expected combination inhibition>=0.50 and independent confirmation is valid.",
+    "note": "Calibrated virtual endpoint assay; novel doses are model predictions, not wet-lab-validated measurements. Control means are reconstructed, control noise is modeled from observed assay residuals."
+  }
+}

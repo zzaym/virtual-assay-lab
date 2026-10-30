@@ -1,0 +1,3 @@
+Source Plate Name,Source Plate Type,Source Well,Destination Plate Name,Destination Well,Transfer Volume
+stocks,384LDV_DMSO,A1,P1,A1,7.5
+stocks,384LDV_DMSO,P24,P1,A1,7.5

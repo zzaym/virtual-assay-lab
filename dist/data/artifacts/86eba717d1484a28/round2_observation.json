@@ -1,0 +1,5309 @@
+{
+  "run_id": "72f1482bb38741a9",
+  "seed": 44,
+  "cell": "PC-14",
+  "status": "active",
+  "phase": "Analyzing results",
+  "simulated_hours": 72.16666666666667,
+  "wells_used": 132,
+  "ctg_inventory_uL": 820.0,
+  "stocks": {
+    "A1": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 1.00253106,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A2": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 3.16999734,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A3": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 10.02351702,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A4": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 31.694372219999998,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A5": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 100.21759512000001,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A6": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 316.88804106,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A7": {
+      "drug": 2429,
+      "label": "GDSC-2429",
+      "concentration_uM": 1002.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A8": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 0.30076031999999997,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A9": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 0.9509982,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A10": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 3.0070521,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A11": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 9.508308659999999,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A12": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 30.06528054,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A13": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 95.06641332,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A14": {
+      "drug": 2574,
+      "label": "GDSC-2574",
+      "concentration_uM": 300.59999999999997,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A15": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 10.02528054,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A16": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 31.699933319999996,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A17": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 100.23520026,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A18": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 316.94370216000004,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A19": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 1002.17598126,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A20": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 3168.8804506799997,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A21": {
+      "drug": 2430,
+      "label": "GDSC-2430",
+      "concentration_uM": 10020.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A22": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 1.00253106,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A23": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 3.16999734,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "A24": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 10.02351702,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B1": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 31.694372219999998,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B2": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 100.21759512000001,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B3": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 316.88804106,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B4": {
+      "drug": 2431,
+      "label": "GDSC-2431",
+      "concentration_uM": 1002.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B5": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 1.00253106,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B6": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 3.16999734,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B7": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 10.02351702,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B8": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 31.694372219999998,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B9": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 100.21759512000001,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B10": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 316.88804106,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B11": {
+      "drug": 2428,
+      "label": "GDSC-2428",
+      "concentration_uM": 1002.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B12": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 10.02528054,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B13": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 31.699933319999996,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B14": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 100.23520026,
+      "volume_uL": 9.909999999999997,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B15": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 316.94370216000004,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B16": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 1002.17598126,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B17": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 3168.8804506799997,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "B18": {
+      "drug": 2434,
+      "label": "GDSC-2434",
+      "concentration_uM": 10020.0,
+      "volume_uL": 10.0,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    },
+    "P24": {
+      "drug": null,
+      "label": "DMSO",
+      "concentration_uM": 0.0,
+      "volume_uL": 9.279999999999973,
+      "dead_volume_uL": 3.0,
+      "solvent": "DMSO"
+    }
+  },
+  "events": [
+    {
+      "sequence": 0,
+      "type": "reset",
+      "simulated_hours": 0.0,
+      "cell": "PC-14",
+      "seed": 44
+    },
+    {
+      "sequence": 1,
+      "type": "plate_created",
+      "simulated_hours": 0.0,
+      "plate": "P1",
+      "wells": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A11",
+        "A12",
+        "A13",
+        "A14",
+        "A15",
+        "A16",
+        "A17",
+        "A18",
+        "A19",
+        "A20",
+        "A21",
+        "A22",
+        "A23",
+        "A24",
+        "A25",
+        "A26",
+        "A27",
+        "A28",
+        "A29",
+        "A30",
+        "A31",
+        "A32",
+        "A33",
+        "A34",
+        "A35",
+        "A36",
+        "A37",
+        "A38",
+        "A39",
+        "A40",
+        "A41",
+        "A42",
+        "A43",
+        "A44",
+        "A45",
+        "A46",
+        "A47",
+        "A48",
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18",
+        "B19",
+        "B20",
+        "B21",
+        "B22",
+        "B23",
+        "B24",
+        "B25",
+        "B26",
+        "B27",
+        "B28",
+        "B29",
+        "B30",
+        "B31",
+        "B32",
+        "B33",
+        "B34",
+        "B35",
+        "B36",
+        "B37",
+        "B38",
+        "B39",
+        "B40",
+        "B41",
+        "B42",
+        "B43",
+        "B44",
+        "B45",
+        "B46",
+        "B47",
+        "B48"
+      ],
+      "blank_wells": [
+        "A37",
+        "A38",
+        "A39",
+        "A40",
+        "A41",
+        "A42",
+        "A43",
+        "A44",
+        "A45",
+        "A46",
+        "A47",
+        "A48",
+        "B37",
+        "B38",
+        "B39",
+        "B40",
+        "B41",
+        "B42",
+        "B43",
+        "B44",
+        "B45",
+        "B46",
+        "B47",
+        "B48"
+      ],
+      "rationale": "Round 1 complete supported-pair screen: four low/high dose corners per pair, matched single-drug controls, vehicles, and blanks for plate-local normalization."
+    },
+    {
+      "sequence": 2,
+      "type": "echo_protocol",
+      "simulated_hours": 0.0,
+      "rationale": "Round 1 screen execution after dry-run validation.",
+      "picklist_csv": "Source Plate Name,Source Plate Type,Source Well,Destination Plate Name,Destination Well,Transfer Volume\nstocks,384LDV_DMSO,A1,P1,A1,7.5\nstocks,384LDV_DMSO,A8,P1,A1,7.5\nstocks,384LDV_DMSO,A1,P1,A2,7.5\nstocks,384LDV_DMSO,A12,P1,A2,7.5\nstocks,384LDV_DMSO,A5,P1,A3,7.5\nstocks,384LDV_DMSO,A8,P1,A3,7.5\nstocks,384LDV_DMSO,A5,P1,A4,7.5\nstocks,384LDV_DMSO,A12,P1,A4,7.5\nstocks,384LDV_DMSO,A1,P1,A5,7.5\nstocks,384LDV_DMSO,P24,P1,A5,7.5\nstocks,384LDV_DMSO,A5,P1,A6,7.5\nstocks,384LDV_DMSO,P24,P1,A6,7.5\nstocks,384LDV_DMSO,A8,P1,A7,7.5\nstocks,384LDV_DMSO,P24,P1,A7,7.5\nstocks,384LDV_DMSO,A12,P1,A8,7.5\nstocks,384LDV_DMSO,P24,P1,A8,7.5\nstocks,384LDV_DMSO,A15,P1,A9,7.5\nstocks,384LDV_DMSO,A22,P1,A9,7.5\nstocks,384LDV_DMSO,A15,P1,A10,7.5\nstocks,384LDV_DMSO,B2,P1,A10,7.5\nstocks,384LDV_DMSO,A17,P1,A11,7.5\nstocks,384LDV_DMSO,A22,P1,A11,7.5\nstocks,384LDV_DMSO,A17,P1,A12,7.5\nstocks,384LDV_DMSO,B2,P1,A12,7.5\nstocks,384LDV_DMSO,A15,P1,A13,7.5\nstocks,384LDV_DMSO,P24,P1,A13,7.5\nstocks,384LDV_DMSO,A17,P1,A14,7.5\nstocks,384LDV_DMSO,P24,P1,A14,7.5\nstocks,384LDV_DMSO,A22,P1,A15,7.5\nstocks,384LDV_DMSO,P24,P1,A15,7.5\nstocks,384LDV_DMSO,B2,P1,A16,7.5\nstocks,384LDV_DMSO,P24,P1,A16,7.5\nstocks,384LDV_DMSO,A1,P1,A17,7.5\nstocks,384LDV_DMSO,A22,P1,A17,7.5\nstocks,384LDV_DMSO,A1,P1,A18,7.5\nstocks,384LDV_DMSO,B2,P1,A18,7.5\nstocks,384LDV_DMSO,A5,P1,A19,7.5\nstocks,384LDV_DMSO,A22,P1,A19,7.5\nstocks,384LDV_DMSO,A5,P1,A20,7.5\nstocks,384LDV_DMSO,B2,P1,A20,7.5\nstocks,384LDV_DMSO,A1,P1,A21,7.5\nstocks,384LDV_DMSO,P24,P1,A21,7.5\nstocks,384LDV_DMSO,A5,P1,A22,7.5\nstocks,384LDV_DMSO,P24,P1,A22,7.5\nstocks,384LDV_DMSO,A22,P1,A23,7.5\nstocks,384LDV_DMSO,P24,P1,A23,7.5\nstocks,384LDV_DMSO,B2,P1,A24,7.5\nstocks,384LDV_DMSO,P24,P1,A24,7.5\nstocks,384LDV_DMSO,B5,P1,A25,7.5\nstocks,384LDV_DMSO,A15,P1,A25,7.5\nstocks,384LDV_DMSO,B5,P1,A26,7.5\nstocks,384LDV_DMSO,A17,P1,A26,7.5\nstocks,384LDV_DMSO,B9,P1,A27,7.5\nstocks,384LDV_DMSO,A15,P1,A27,7.5\nstocks,384LDV_DMSO,B9,P1,A28,7.5\nstocks,384LDV_DMSO,A17,P1,A28,7.5\nstocks,384LDV_DMSO,B5,P1,A29,7.5\nstocks,384LDV_DMSO,P24,P1,A29,7.5\nstocks,384LDV_DMSO,B9,P1,A30,7.5\nstocks,384LDV_DMSO,P24,P1,A30,7.5\nstocks,384LDV_DMSO,A15,P1,A31,7.5\nstocks,384LDV_DMSO,P24,P1,A31,7.5\nstocks,384LDV_DMSO,A17,P1,A32,7.5\nstocks,384LDV_DMSO,P24,P1,A32,7.5\nstocks,384LDV_DMSO,B5,P1,A33,7.5\nstocks,384LDV_DMSO,B12,P1,A33,7.5\nstocks,384LDV_DMSO,B5,P1,A34,7.5\nstocks,384LDV_DMSO,B14,P1,A34,7.5\nstocks,384LDV_DMSO,B9,P1,A35,7.5\nstocks,384LDV_DMSO,B12,P1,A35,7.5\nstocks,384LDV_DMSO,B9,P1,A36,7.5\nstocks,384LDV_DMSO,B14,P1,A36,7.5\nstocks,384LDV_DMSO,B5,P1,A37,7.5\nstocks,384LDV_DMSO,P24,P1,A37,7.5\nstocks,384LDV_DMSO,B9,P1,A38,7.5\nstocks,384LDV_DMSO,P24,P1,A38,7.5\nstocks,384LDV_DMSO,B12,P1,A39,7.5\nstocks,384LDV_DMSO,P24,P1,A39,7.5\nstocks,384LDV_DMSO,B14,P1,A40,7.5\nstocks,384LDV_DMSO,P24,P1,A40,7.5\nstocks,384LDV_DMSO,B12,P1,A41,7.5\nstocks,384LDV_DMSO,A8,P1,A41,7.5\nstocks,384LDV_DMSO,B12,P1,A42,7.5\nstocks,384LDV_DMSO,A12,P1,A42,7.5\nstocks,384LDV_DMSO,B14,P1,A43,7.5\nstocks,384LDV_DMSO,A8,P1,A43,7.5\nstocks,384LDV_DMSO,B14,P1,A44,7.5\nstocks,384LDV_DMSO,A12,P1,A44,7.5\nstocks,384LDV_DMSO,B12,P1,A45,7.5\nstocks,384LDV_DMSO,P24,P1,A45,7.5\nstocks,384LDV_DMSO,B14,P1,A46,7.5\nstocks,384LDV_DMSO,P24,P1,A46,7.5\nstocks,384LDV_DMSO,A8,P1,A47,7.5\nstocks,384LDV_DMSO,P24,P1,A47,7.5\nstocks,384LDV_DMSO,A12,P1,A48,7.5\nstocks,384LDV_DMSO,P24,P1,A48,7.5\nstocks,384LDV_DMSO,P24,P1,B1,15\nstocks,384LDV_DMSO,P24,P1,B2,15\nstocks,384LDV_DMSO,P24,P1,B3,15\nstocks,384LDV_DMSO,P24,P1,B4,15\nstocks,384LDV_DMSO,P24,P1,B5,15\nstocks,384LDV_DMSO,P24,P1,B6,15\nstocks,384LDV_DMSO,P24,P1,B7,15\nstocks,384LDV_DMSO,P24,P1,B8,15\nstocks,384LDV_DMSO,P24,P1,B9,15\nstocks,384LDV_DMSO,P24,P1,B10,15\nstocks,384LDV_DMSO,P24,P1,B11,15\nstocks,384LDV_DMSO,P24,P1,B12,15\n",
+      "transfer_count": 108
+    },
+    {
+      "sequence": 3,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 1,
+      "source": "A1",
+      "plate": "P1",
+      "well": "A1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 4,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 2,
+      "source": "A8",
+      "plate": "P1",
+      "well": "A1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 5,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 3,
+      "source": "A1",
+      "plate": "P1",
+      "well": "A2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 6,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 4,
+      "source": "A12",
+      "plate": "P1",
+      "well": "A2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 7,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 5,
+      "source": "A5",
+      "plate": "P1",
+      "well": "A3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 8,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 6,
+      "source": "A8",
+      "plate": "P1",
+      "well": "A3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 9,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 7,
+      "source": "A5",
+      "plate": "P1",
+      "well": "A4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 10,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 8,
+      "source": "A12",
+      "plate": "P1",
+      "well": "A4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 11,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 9,
+      "source": "A1",
+      "plate": "P1",
+      "well": "A5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 12,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 10,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 13,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 11,
+      "source": "A5",
+      "plate": "P1",
+      "well": "A6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 14,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 12,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 15,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 13,
+      "source": "A8",
+      "plate": "P1",
+      "well": "A7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 16,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 14,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 17,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 15,
+      "source": "A12",
+      "plate": "P1",
+      "well": "A8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 18,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 16,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 19,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 17,
+      "source": "A15",
+      "plate": "P1",
+      "well": "A9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 20,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 18,
+      "source": "A22",
+      "plate": "P1",
+      "well": "A9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 21,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 19,
+      "source": "A15",
+      "plate": "P1",
+      "well": "A10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 22,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 20,
+      "source": "B2",
+      "plate": "P1",
+      "well": "A10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 23,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 21,
+      "source": "A17",
+      "plate": "P1",
+      "well": "A11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 24,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 22,
+      "source": "A22",
+      "plate": "P1",
+      "well": "A11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 25,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 23,
+      "source": "A17",
+      "plate": "P1",
+      "well": "A12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 26,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 24,
+      "source": "B2",
+      "plate": "P1",
+      "well": "A12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 27,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 25,
+      "source": "A15",
+      "plate": "P1",
+      "well": "A13",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 28,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 26,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A13",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 29,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 27,
+      "source": "A17",
+      "plate": "P1",
+      "well": "A14",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 30,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 28,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A14",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 31,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 29,
+      "source": "A22",
+      "plate": "P1",
+      "well": "A15",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 32,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 30,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A15",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 33,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 31,
+      "source": "B2",
+      "plate": "P1",
+      "well": "A16",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 34,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 32,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A16",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 35,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 33,
+      "source": "A1",
+      "plate": "P1",
+      "well": "A17",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 36,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 34,
+      "source": "A22",
+      "plate": "P1",
+      "well": "A17",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 37,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 35,
+      "source": "A1",
+      "plate": "P1",
+      "well": "A18",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 38,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 36,
+      "source": "B2",
+      "plate": "P1",
+      "well": "A18",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 39,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 37,
+      "source": "A5",
+      "plate": "P1",
+      "well": "A19",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 40,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 38,
+      "source": "A22",
+      "plate": "P1",
+      "well": "A19",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 41,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 39,
+      "source": "A5",
+      "plate": "P1",
+      "well": "A20",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 42,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 40,
+      "source": "B2",
+      "plate": "P1",
+      "well": "A20",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 43,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 41,
+      "source": "A1",
+      "plate": "P1",
+      "well": "A21",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 44,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 42,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A21",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 45,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 43,
+      "source": "A5",
+      "plate": "P1",
+      "well": "A22",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 46,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 44,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A22",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 47,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 45,
+      "source": "A22",
+      "plate": "P1",
+      "well": "A23",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 48,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 46,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A23",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 49,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 47,
+      "source": "B2",
+      "plate": "P1",
+      "well": "A24",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 50,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 48,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A24",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 51,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 49,
+      "source": "B5",
+      "plate": "P1",
+      "well": "A25",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 52,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 50,
+      "source": "A15",
+      "plate": "P1",
+      "well": "A25",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 53,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 51,
+      "source": "B5",
+      "plate": "P1",
+      "well": "A26",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 54,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 52,
+      "source": "A17",
+      "plate": "P1",
+      "well": "A26",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 55,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 53,
+      "source": "B9",
+      "plate": "P1",
+      "well": "A27",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 56,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 54,
+      "source": "A15",
+      "plate": "P1",
+      "well": "A27",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 57,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 55,
+      "source": "B9",
+      "plate": "P1",
+      "well": "A28",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 58,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 56,
+      "source": "A17",
+      "plate": "P1",
+      "well": "A28",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 59,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 57,
+      "source": "B5",
+      "plate": "P1",
+      "well": "A29",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 60,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 58,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A29",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 61,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 59,
+      "source": "B9",
+      "plate": "P1",
+      "well": "A30",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 62,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 60,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A30",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 63,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 61,
+      "source": "A15",
+      "plate": "P1",
+      "well": "A31",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 64,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 62,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A31",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 65,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 63,
+      "source": "A17",
+      "plate": "P1",
+      "well": "A32",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 66,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 64,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A32",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 67,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 65,
+      "source": "B5",
+      "plate": "P1",
+      "well": "A33",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 68,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 66,
+      "source": "B12",
+      "plate": "P1",
+      "well": "A33",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 69,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 67,
+      "source": "B5",
+      "plate": "P1",
+      "well": "A34",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 70,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 68,
+      "source": "B14",
+      "plate": "P1",
+      "well": "A34",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 71,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 69,
+      "source": "B9",
+      "plate": "P1",
+      "well": "A35",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 72,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 70,
+      "source": "B12",
+      "plate": "P1",
+      "well": "A35",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 73,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 71,
+      "source": "B9",
+      "plate": "P1",
+      "well": "A36",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 74,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 72,
+      "source": "B14",
+      "plate": "P1",
+      "well": "A36",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 75,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 73,
+      "source": "B5",
+      "plate": "P1",
+      "well": "A37",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 76,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 74,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A37",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 77,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 75,
+      "source": "B9",
+      "plate": "P1",
+      "well": "A38",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 78,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 76,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A38",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 79,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 77,
+      "source": "B12",
+      "plate": "P1",
+      "well": "A39",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 80,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 78,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A39",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 81,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 79,
+      "source": "B14",
+      "plate": "P1",
+      "well": "A40",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 82,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 80,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A40",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 83,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 81,
+      "source": "B12",
+      "plate": "P1",
+      "well": "A41",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 84,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 82,
+      "source": "A8",
+      "plate": "P1",
+      "well": "A41",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 85,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 83,
+      "source": "B12",
+      "plate": "P1",
+      "well": "A42",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 86,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 84,
+      "source": "A12",
+      "plate": "P1",
+      "well": "A42",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 87,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 85,
+      "source": "B14",
+      "plate": "P1",
+      "well": "A43",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 88,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 86,
+      "source": "A8",
+      "plate": "P1",
+      "well": "A43",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 89,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 87,
+      "source": "B14",
+      "plate": "P1",
+      "well": "A44",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 90,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 88,
+      "source": "A12",
+      "plate": "P1",
+      "well": "A44",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 91,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 89,
+      "source": "B12",
+      "plate": "P1",
+      "well": "A45",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 92,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 90,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A45",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 93,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 91,
+      "source": "B14",
+      "plate": "P1",
+      "well": "A46",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 94,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 92,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A46",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 95,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 93,
+      "source": "A8",
+      "plate": "P1",
+      "well": "A47",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 96,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 94,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A47",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 97,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 95,
+      "source": "A12",
+      "plate": "P1",
+      "well": "A48",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 98,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 96,
+      "source": "P24",
+      "plate": "P1",
+      "well": "A48",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 99,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 97,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B1",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 100,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 98,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B2",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 101,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 99,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B3",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 102,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 100,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B4",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 103,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 101,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B5",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 104,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 102,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B6",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 105,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 103,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B7",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 106,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 104,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B8",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 107,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 105,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B9",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 108,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 106,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B10",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 109,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 107,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B11",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 110,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 108,
+      "source": "P24",
+      "plate": "P1",
+      "well": "B12",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 111,
+      "type": "plate_created",
+      "simulated_hours": 0.0,
+      "plate": "P2",
+      "wells": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A11",
+        "A12",
+        "A13",
+        "A14",
+        "A15",
+        "A16",
+        "A17",
+        "A18",
+        "A19",
+        "A20",
+        "A21",
+        "A22",
+        "A23",
+        "A24",
+        "A25",
+        "A26",
+        "A27",
+        "A28",
+        "A29",
+        "A30",
+        "A31",
+        "A32",
+        "A33",
+        "A34",
+        "A35",
+        "A36",
+        "A37",
+        "A38",
+        "A39",
+        "A40",
+        "A41",
+        "A42",
+        "A43",
+        "A44",
+        "A45",
+        "A46",
+        "A47",
+        "A48",
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12",
+        "B37",
+        "B38",
+        "B39",
+        "B40",
+        "B41",
+        "B42",
+        "B43",
+        "B44",
+        "B45",
+        "B46",
+        "B47",
+        "B48"
+      ],
+      "blank_wells": [
+        "B37",
+        "B38",
+        "B39",
+        "B40",
+        "B41",
+        "B42",
+        "B43",
+        "B44",
+        "B45",
+        "B46",
+        "B47",
+        "B48"
+      ],
+      "rationale": "Round 2 corrected independent screen after P1 validation failure; blank wells are non-overlapping with all experimental and vehicle wells."
+    },
+    {
+      "sequence": 112,
+      "type": "echo_protocol",
+      "simulated_hours": 0.0,
+      "rationale": "Round 2 corrected screen execution.",
+      "picklist_csv": "Source Plate Name,Source Plate Type,Source Well,Destination Plate Name,Destination Well,Transfer Volume\nstocks,384LDV_DMSO,A1,P2,A1,7.5\nstocks,384LDV_DMSO,A8,P2,A1,7.5\nstocks,384LDV_DMSO,A1,P2,A2,7.5\nstocks,384LDV_DMSO,A12,P2,A2,7.5\nstocks,384LDV_DMSO,A5,P2,A3,7.5\nstocks,384LDV_DMSO,A8,P2,A3,7.5\nstocks,384LDV_DMSO,A5,P2,A4,7.5\nstocks,384LDV_DMSO,A12,P2,A4,7.5\nstocks,384LDV_DMSO,A1,P2,A5,7.5\nstocks,384LDV_DMSO,P24,P2,A5,7.5\nstocks,384LDV_DMSO,A5,P2,A6,7.5\nstocks,384LDV_DMSO,P24,P2,A6,7.5\nstocks,384LDV_DMSO,A8,P2,A7,7.5\nstocks,384LDV_DMSO,P24,P2,A7,7.5\nstocks,384LDV_DMSO,A12,P2,A8,7.5\nstocks,384LDV_DMSO,P24,P2,A8,7.5\nstocks,384LDV_DMSO,A15,P2,A9,7.5\nstocks,384LDV_DMSO,A22,P2,A9,7.5\nstocks,384LDV_DMSO,A15,P2,A10,7.5\nstocks,384LDV_DMSO,B2,P2,A10,7.5\nstocks,384LDV_DMSO,A17,P2,A11,7.5\nstocks,384LDV_DMSO,A22,P2,A11,7.5\nstocks,384LDV_DMSO,A17,P2,A12,7.5\nstocks,384LDV_DMSO,B2,P2,A12,7.5\nstocks,384LDV_DMSO,A15,P2,A13,7.5\nstocks,384LDV_DMSO,P24,P2,A13,7.5\nstocks,384LDV_DMSO,A17,P2,A14,7.5\nstocks,384LDV_DMSO,P24,P2,A14,7.5\nstocks,384LDV_DMSO,A22,P2,A15,7.5\nstocks,384LDV_DMSO,P24,P2,A15,7.5\nstocks,384LDV_DMSO,B2,P2,A16,7.5\nstocks,384LDV_DMSO,P24,P2,A16,7.5\nstocks,384LDV_DMSO,A1,P2,A17,7.5\nstocks,384LDV_DMSO,A22,P2,A17,7.5\nstocks,384LDV_DMSO,A1,P2,A18,7.5\nstocks,384LDV_DMSO,B2,P2,A18,7.5\nstocks,384LDV_DMSO,A5,P2,A19,7.5\nstocks,384LDV_DMSO,A22,P2,A19,7.5\nstocks,384LDV_DMSO,A5,P2,A20,7.5\nstocks,384LDV_DMSO,B2,P2,A20,7.5\nstocks,384LDV_DMSO,A1,P2,A21,7.5\nstocks,384LDV_DMSO,P24,P2,A21,7.5\nstocks,384LDV_DMSO,A5,P2,A22,7.5\nstocks,384LDV_DMSO,P24,P2,A22,7.5\nstocks,384LDV_DMSO,A22,P2,A23,7.5\nstocks,384LDV_DMSO,P24,P2,A23,7.5\nstocks,384LDV_DMSO,B2,P2,A24,7.5\nstocks,384LDV_DMSO,P24,P2,A24,7.5\nstocks,384LDV_DMSO,B5,P2,A25,7.5\nstocks,384LDV_DMSO,A15,P2,A25,7.5\nstocks,384LDV_DMSO,B5,P2,A26,7.5\nstocks,384LDV_DMSO,A17,P2,A26,7.5\nstocks,384LDV_DMSO,B9,P2,A27,7.5\nstocks,384LDV_DMSO,A15,P2,A27,7.5\nstocks,384LDV_DMSO,B9,P2,A28,7.5\nstocks,384LDV_DMSO,A17,P2,A28,7.5\nstocks,384LDV_DMSO,B5,P2,A29,7.5\nstocks,384LDV_DMSO,P24,P2,A29,7.5\nstocks,384LDV_DMSO,B9,P2,A30,7.5\nstocks,384LDV_DMSO,P24,P2,A30,7.5\nstocks,384LDV_DMSO,A15,P2,A31,7.5\nstocks,384LDV_DMSO,P24,P2,A31,7.5\nstocks,384LDV_DMSO,A17,P2,A32,7.5\nstocks,384LDV_DMSO,P24,P2,A32,7.5\nstocks,384LDV_DMSO,B5,P2,A33,7.5\nstocks,384LDV_DMSO,B12,P2,A33,7.5\nstocks,384LDV_DMSO,B5,P2,A34,7.5\nstocks,384LDV_DMSO,B14,P2,A34,7.5\nstocks,384LDV_DMSO,B9,P2,A35,7.5\nstocks,384LDV_DMSO,B12,P2,A35,7.5\nstocks,384LDV_DMSO,B9,P2,A36,7.5\nstocks,384LDV_DMSO,B14,P2,A36,7.5\nstocks,384LDV_DMSO,B5,P2,A37,7.5\nstocks,384LDV_DMSO,P24,P2,A37,7.5\nstocks,384LDV_DMSO,B9,P2,A38,7.5\nstocks,384LDV_DMSO,P24,P2,A38,7.5\nstocks,384LDV_DMSO,B12,P2,A39,7.5\nstocks,384LDV_DMSO,P24,P2,A39,7.5\nstocks,384LDV_DMSO,B14,P2,A40,7.5\nstocks,384LDV_DMSO,P24,P2,A40,7.5\nstocks,384LDV_DMSO,B12,P2,A41,7.5\nstocks,384LDV_DMSO,A8,P2,A41,7.5\nstocks,384LDV_DMSO,B12,P2,A42,7.5\nstocks,384LDV_DMSO,A12,P2,A42,7.5\nstocks,384LDV_DMSO,B14,P2,A43,7.5\nstocks,384LDV_DMSO,A8,P2,A43,7.5\nstocks,384LDV_DMSO,B14,P2,A44,7.5\nstocks,384LDV_DMSO,A12,P2,A44,7.5\nstocks,384LDV_DMSO,B12,P2,A45,7.5\nstocks,384LDV_DMSO,P24,P2,A45,7.5\nstocks,384LDV_DMSO,B14,P2,A46,7.5\nstocks,384LDV_DMSO,P24,P2,A46,7.5\nstocks,384LDV_DMSO,A8,P2,A47,7.5\nstocks,384LDV_DMSO,P24,P2,A47,7.5\nstocks,384LDV_DMSO,A12,P2,A48,7.5\nstocks,384LDV_DMSO,P24,P2,A48,7.5\nstocks,384LDV_DMSO,P24,P2,B1,15\nstocks,384LDV_DMSO,P24,P2,B2,15\nstocks,384LDV_DMSO,P24,P2,B3,15\nstocks,384LDV_DMSO,P24,P2,B4,15\nstocks,384LDV_DMSO,P24,P2,B5,15\nstocks,384LDV_DMSO,P24,P2,B6,15\nstocks,384LDV_DMSO,P24,P2,B7,15\nstocks,384LDV_DMSO,P24,P2,B8,15\nstocks,384LDV_DMSO,P24,P2,B9,15\nstocks,384LDV_DMSO,P24,P2,B10,15\nstocks,384LDV_DMSO,P24,P2,B11,15\nstocks,384LDV_DMSO,P24,P2,B12,15\n",
+      "transfer_count": 108
+    },
+    {
+      "sequence": 113,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 1,
+      "source": "A1",
+      "plate": "P2",
+      "well": "A1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 114,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 2,
+      "source": "A8",
+      "plate": "P2",
+      "well": "A1",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 115,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 3,
+      "source": "A1",
+      "plate": "P2",
+      "well": "A2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 116,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 4,
+      "source": "A12",
+      "plate": "P2",
+      "well": "A2",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 117,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 5,
+      "source": "A5",
+      "plate": "P2",
+      "well": "A3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 118,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 6,
+      "source": "A8",
+      "plate": "P2",
+      "well": "A3",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 119,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 7,
+      "source": "A5",
+      "plate": "P2",
+      "well": "A4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 120,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 8,
+      "source": "A12",
+      "plate": "P2",
+      "well": "A4",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 121,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 9,
+      "source": "A1",
+      "plate": "P2",
+      "well": "A5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 122,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 10,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A5",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 123,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 11,
+      "source": "A5",
+      "plate": "P2",
+      "well": "A6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 124,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 12,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A6",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 125,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 13,
+      "source": "A8",
+      "plate": "P2",
+      "well": "A7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 126,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 14,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A7",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 127,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 15,
+      "source": "A12",
+      "plate": "P2",
+      "well": "A8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 128,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 16,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A8",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 129,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 17,
+      "source": "A15",
+      "plate": "P2",
+      "well": "A9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 130,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 18,
+      "source": "A22",
+      "plate": "P2",
+      "well": "A9",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 131,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 19,
+      "source": "A15",
+      "plate": "P2",
+      "well": "A10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 132,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 20,
+      "source": "B2",
+      "plate": "P2",
+      "well": "A10",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 133,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 21,
+      "source": "A17",
+      "plate": "P2",
+      "well": "A11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 134,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 22,
+      "source": "A22",
+      "plate": "P2",
+      "well": "A11",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 135,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 23,
+      "source": "A17",
+      "plate": "P2",
+      "well": "A12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 136,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 24,
+      "source": "B2",
+      "plate": "P2",
+      "well": "A12",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 137,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 25,
+      "source": "A15",
+      "plate": "P2",
+      "well": "A13",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 138,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 26,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A13",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 139,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 27,
+      "source": "A17",
+      "plate": "P2",
+      "well": "A14",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 140,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 28,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A14",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 141,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 29,
+      "source": "A22",
+      "plate": "P2",
+      "well": "A15",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 142,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 30,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A15",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 143,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 31,
+      "source": "B2",
+      "plate": "P2",
+      "well": "A16",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 144,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 32,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A16",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 145,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 33,
+      "source": "A1",
+      "plate": "P2",
+      "well": "A17",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 146,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 34,
+      "source": "A22",
+      "plate": "P2",
+      "well": "A17",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 147,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 35,
+      "source": "A1",
+      "plate": "P2",
+      "well": "A18",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 148,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 36,
+      "source": "B2",
+      "plate": "P2",
+      "well": "A18",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 149,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 37,
+      "source": "A5",
+      "plate": "P2",
+      "well": "A19",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 150,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 38,
+      "source": "A22",
+      "plate": "P2",
+      "well": "A19",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 151,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 39,
+      "source": "A5",
+      "plate": "P2",
+      "well": "A20",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 152,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 40,
+      "source": "B2",
+      "plate": "P2",
+      "well": "A20",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 153,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 41,
+      "source": "A1",
+      "plate": "P2",
+      "well": "A21",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 154,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 42,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A21",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 155,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 43,
+      "source": "A5",
+      "plate": "P2",
+      "well": "A22",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 156,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 44,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A22",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 157,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 45,
+      "source": "A22",
+      "plate": "P2",
+      "well": "A23",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 158,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 46,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A23",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 159,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 47,
+      "source": "B2",
+      "plate": "P2",
+      "well": "A24",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 160,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 48,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A24",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 161,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 49,
+      "source": "B5",
+      "plate": "P2",
+      "well": "A25",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 162,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 50,
+      "source": "A15",
+      "plate": "P2",
+      "well": "A25",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 163,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 51,
+      "source": "B5",
+      "plate": "P2",
+      "well": "A26",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 164,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 52,
+      "source": "A17",
+      "plate": "P2",
+      "well": "A26",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 165,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 53,
+      "source": "B9",
+      "plate": "P2",
+      "well": "A27",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 166,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 54,
+      "source": "A15",
+      "plate": "P2",
+      "well": "A27",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 167,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 55,
+      "source": "B9",
+      "plate": "P2",
+      "well": "A28",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 168,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 56,
+      "source": "A17",
+      "plate": "P2",
+      "well": "A28",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 169,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 57,
+      "source": "B5",
+      "plate": "P2",
+      "well": "A29",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 170,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 58,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A29",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 171,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 59,
+      "source": "B9",
+      "plate": "P2",
+      "well": "A30",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 172,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 60,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A30",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 173,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 61,
+      "source": "A15",
+      "plate": "P2",
+      "well": "A31",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 174,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 62,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A31",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 175,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 63,
+      "source": "A17",
+      "plate": "P2",
+      "well": "A32",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 176,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 64,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A32",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 177,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 65,
+      "source": "B5",
+      "plate": "P2",
+      "well": "A33",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 178,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 66,
+      "source": "B12",
+      "plate": "P2",
+      "well": "A33",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 179,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 67,
+      "source": "B5",
+      "plate": "P2",
+      "well": "A34",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 180,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 68,
+      "source": "B14",
+      "plate": "P2",
+      "well": "A34",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 181,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 69,
+      "source": "B9",
+      "plate": "P2",
+      "well": "A35",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 182,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 70,
+      "source": "B12",
+      "plate": "P2",
+      "well": "A35",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 183,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 71,
+      "source": "B9",
+      "plate": "P2",
+      "well": "A36",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 184,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 72,
+      "source": "B14",
+      "plate": "P2",
+      "well": "A36",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 185,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 73,
+      "source": "B5",
+      "plate": "P2",
+      "well": "A37",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 186,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 74,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A37",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 187,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 75,
+      "source": "B9",
+      "plate": "P2",
+      "well": "A38",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 188,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 76,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A38",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 189,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 77,
+      "source": "B12",
+      "plate": "P2",
+      "well": "A39",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 190,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 78,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A39",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 191,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 79,
+      "source": "B14",
+      "plate": "P2",
+      "well": "A40",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 192,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 80,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A40",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 193,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 81,
+      "source": "B12",
+      "plate": "P2",
+      "well": "A41",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 194,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 82,
+      "source": "A8",
+      "plate": "P2",
+      "well": "A41",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 195,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 83,
+      "source": "B12",
+      "plate": "P2",
+      "well": "A42",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 196,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 84,
+      "source": "A12",
+      "plate": "P2",
+      "well": "A42",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 197,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 85,
+      "source": "B14",
+      "plate": "P2",
+      "well": "A43",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 198,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 86,
+      "source": "A8",
+      "plate": "P2",
+      "well": "A43",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 199,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 87,
+      "source": "B14",
+      "plate": "P2",
+      "well": "A44",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 200,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 88,
+      "source": "A12",
+      "plate": "P2",
+      "well": "A44",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 201,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 89,
+      "source": "B12",
+      "plate": "P2",
+      "well": "A45",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 202,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 90,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A45",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 203,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 91,
+      "source": "B14",
+      "plate": "P2",
+      "well": "A46",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 204,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 92,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A46",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 205,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 93,
+      "source": "A8",
+      "plate": "P2",
+      "well": "A47",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 206,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 94,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A47",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 207,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 95,
+      "source": "A12",
+      "plate": "P2",
+      "well": "A48",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 208,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 96,
+      "source": "P24",
+      "plate": "P2",
+      "well": "A48",
+      "volume_nL": 7.5
+    },
+    {
+      "sequence": 209,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 97,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B1",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 210,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 98,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B2",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 211,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 99,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B3",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 212,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 100,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B4",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 213,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 101,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B5",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 214,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 102,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B6",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 215,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 103,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B7",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 216,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 104,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B8",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 217,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 105,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B9",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 218,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 106,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B10",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 219,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 107,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B11",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 220,
+      "type": "echo_transfer",
+      "simulated_hours": 0.0,
+      "step": 108,
+      "source": "P24",
+      "plate": "P2",
+      "well": "B12",
+      "volume_nL": 15.0
+    },
+    {
+      "sequence": 221,
+      "type": "incubated",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "hours": 72,
+      "temperature_C": 37,
+      "co2_percent": 5,
+      "rationale": "Standard 72-hour calibrated exposure for corrected Round 2 screen."
+    },
+    {
+      "sequence": 222,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A1",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 223,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A2",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 224,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A3",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 225,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A4",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 226,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A5",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 227,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A6",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 228,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A7",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 229,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A8",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 230,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A9",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 231,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A10",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 232,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A11",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 233,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A12",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 234,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A13",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 235,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A14",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 236,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A15",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 237,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A16",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 238,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A17",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 239,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A18",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 240,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A19",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 241,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A20",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 242,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A21",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 243,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A22",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 244,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A23",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 245,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A24",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 246,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A25",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 247,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A26",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 248,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A27",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 249,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A28",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 250,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A29",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 251,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A30",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 252,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A31",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 253,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A32",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 254,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A33",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 255,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A34",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 256,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A35",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 257,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A36",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 258,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A37",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 259,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A38",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 260,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A39",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 261,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A40",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 262,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A41",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 263,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A42",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 264,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A43",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 265,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A44",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 266,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A45",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 267,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A46",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 268,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A47",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 269,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "A48",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 270,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B1",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 271,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B2",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 272,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B3",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 273,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B4",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 274,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B5",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 275,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B6",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 276,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B7",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 277,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B8",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 278,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B9",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 279,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B10",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 280,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B11",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 281,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B12",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 282,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B37",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 283,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B38",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 284,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B39",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 285,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B40",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 286,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B41",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 287,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B42",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 288,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B43",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 289,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B44",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 290,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B45",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 291,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B46",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 292,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B47",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 293,
+      "type": "detection_dispense",
+      "simulated_hours": 72.0,
+      "plate": "P2",
+      "well": "B48",
+      "volume_uL": 2.5,
+      "driver": "PyLabRobot 0.2.2 LiquidHandler.dispense"
+    },
+    {
+      "sequence": 294,
+      "type": "detection_ready",
+      "simulated_hours": 72.16666666666667,
+      "plate": "P2",
+      "minutes": 10
+    },
+    {
+      "sequence": 295,
+      "type": "plate_read",
+      "simulated_hours": 72.16666666666667,
+      "plate": "P2",
+      "driver": "PyLabRobot 0.2.2 PlateReader.read_luminescence",
+      "measurement_id": "P2-endpoint",
+      "well_count": 72
+    }
+  ],
+  "result": null,
+  "plates": {
+    "P1": {
+      "name": "P1",
+      "stage": "prepared",
+      "created_after_reads": 0,
+      "wells": {
+        "A1": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295,
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A2": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295,
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A3": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002,
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A4": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002,
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A5": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A6": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A7": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A8": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A9": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.07518960405,
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A10": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.07518960405,
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A11": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.7517640019499999,
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A12": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.7517640019499999,
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A13": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.07518960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A14": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A15": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A16": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A17": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295,
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A18": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295,
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A19": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002,
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A20": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002,
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A21": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A22": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A23": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A24": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A25": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295,
+            "2430": 0.07518960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A26": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295,
+            "2430": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A27": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002,
+            "2430": 0.07518960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A28": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002,
+            "2430": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A29": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A30": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A31": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.07518960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A32": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A33": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295,
+            "2434": 0.07518960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A34": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295,
+            "2434": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A35": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002,
+            "2434": 0.07518960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A36": {
+          "blank": false,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002,
+            "2434": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A37": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A38": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A39": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.07518960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A40": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A41": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.07518960405,
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A42": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.07518960405,
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A43": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.7517640019499999,
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A44": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.7517640019499999,
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A45": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.07518960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A46": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A47": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "A48": {
+          "blank": true,
+          "volume_uL": 7.515000000000001,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B1": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B2": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B3": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B4": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B5": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B6": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B7": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B8": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B9": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B10": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B11": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B12": {
+          "blank": false,
+          "volume_uL": 7.515,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": false,
+          "rlu": null
+        },
+        "B13": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B14": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B15": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B16": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B17": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B18": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B19": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B20": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B21": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B22": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B23": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B24": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B25": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B26": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B27": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B28": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B29": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B30": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B31": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B32": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B33": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B34": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B35": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B36": {
+          "blank": false,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B37": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B38": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B39": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B40": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B41": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B42": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B43": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B44": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B45": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B46": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B47": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        },
+        "B48": {
+          "blank": true,
+          "volume_uL": 7.5,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": false,
+          "ctg": false,
+          "rlu": null
+        }
+      }
+    },
+    "P2": {
+      "name": "P2",
+      "stage": "read",
+      "created_after_reads": 0,
+      "wells": {
+        "A1": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295,
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 16337.479160828469
+        },
+        "A2": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295,
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 13041.264894056058
+        },
+        "A3": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002,
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 16406.35704056534
+        },
+        "A4": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002,
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 11045.775326723773
+        },
+        "A5": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 17586.69643239481
+        },
+        "A6": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 18785.471954890058
+        },
+        "A7": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 15076.47699920219
+        },
+        "A8": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 8819.219428356464
+        },
+        "A9": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.07518960405,
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 17277.6279231232
+        },
+        "A10": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.07518960405,
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 5780.818235811391
+        },
+        "A11": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.7517640019499999,
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 15223.810025047229
+        },
+        "A12": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.7517640019499999,
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 3770.4549854838187
+        },
+        "A13": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.07518960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 16528.751308277675
+        },
+        "A14": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 14502.335921539647
+        },
+        "A15": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 16090.605204871674
+        },
+        "A16": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 4534.703688542397
+        },
+        "A17": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295,
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 17244.696568973828
+        },
+        "A18": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295,
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 4115.920390267232
+        },
+        "A19": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002,
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 14267.631861055139
+        },
+        "A20": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002,
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 5012.425537480547
+        },
+        "A21": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.00751898295
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 14407.137712671345
+        },
+        "A22": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2429": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 15968.271762588214
+        },
+        "A23": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.00751898295
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 15994.053570950957
+        },
+        "A24": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2431": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 2853.9308210877243
+        },
+        "A25": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295,
+            "2430": 0.07518960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 14807.118794764068
+        },
+        "A26": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295,
+            "2430": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 16352.132939240702
+        },
+        "A27": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002,
+            "2430": 0.07518960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 13857.099836108739
+        },
+        "A28": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002,
+            "2430": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 12759.194963962069
+        },
+        "A29": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 15427.591107660388
+        },
+        "A30": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 15139.01999220961
+        },
+        "A31": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.07518960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 16744.460208342756
+        },
+        "A32": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2430": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 13724.731011174626
+        },
+        "A33": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295,
+            "2434": 0.07518960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 13623.950562627431
+        },
+        "A34": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295,
+            "2434": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 15109.060614381693
+        },
+        "A35": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002,
+            "2434": 0.07518960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 14191.38675231755
+        },
+        "A36": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002,
+            "2434": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 14962.107112753227
+        },
+        "A37": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.00751898295
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 15698.938246824113
+        },
+        "A38": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2428": 0.7516319634000002
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 15105.997789926245
+        },
+        "A39": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.07518960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 16872.329568530546
+        },
+        "A40": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 15007.790012872398
+        },
+        "A41": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.07518960405,
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 13297.874397303447
+        },
+        "A42": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.07518960405,
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 13265.357147080027
+        },
+        "A43": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.7517640019499999,
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 15212.41422560336
+        },
+        "A44": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.7517640019499999,
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 11432.627220957036
+        },
+        "A45": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.07518960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 16832.436333754322
+        },
+        "A46": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2434": 0.7517640019499999
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 14553.222505509106
+        },
+        "A47": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2574": 0.0022557023999999998
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 20147.184790332114
+        },
+        "A48": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {
+            "2574": 0.22548960405
+          },
+          "used": true,
+          "ctg": true,
+          "rlu": 9196.886385613087
+        },
+        "B1": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 15249.690288320542
+        },
+        "B2": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 15668.055864039361
+        },
+        "B3": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 17440.364217526087
+        },
+        "B4": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 16149.53415307915
+        },
+        "B5": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 18105.92110794856
+        },
+        "B6": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 15467.74107599943
+        },
+        "B7": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 13350.450176130329
+        },
+        "B8": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 16022.122661564983
+        },
+        "B9": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 13957.469043321576
+        },
+        "B10": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 19247.930616507696
+        },
+        "B11": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 13090.750631035964
+        },
+        "B12": {
+          "blank": false,
+          "volume_uL": 10.015,
+          "dmso_nL": 15.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 15288.58209003511
+        },
+        "B37": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 3424.123221232853
+        },
+        "B38": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 3127.428203273572
+        },
+        "B39": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 2676.4292292241735
+        },
+        "B40": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 242.40143699735194
+        },
+        "B41": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 534.9617965914344
+        },
+        "B42": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 2214.934160551603
+        },
+        "B43": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 946.8547015381164
+        },
+        "B44": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 0.0
+        },
+        "B45": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 0.0
+        },
+        "B46": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 0.0
+        },
+        "B47": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 1955.0368847954903
+        },
+        "B48": {
+          "blank": true,
+          "volume_uL": 10.0,
+          "dmso_nL": 0.0,
+          "amounts_uM_uL": {},
+          "used": true,
+          "ctg": true,
+          "rlu": 2061.3019118165157
+        }
+      }
+    }
+  },
+  "pairs": [
+    {
+      "pair_id": "D2429+D2574",
+      "drug_a": 2429,
+      "drug_b": 2574,
+      "dose_a_range_uM": [
+        0.00100053,
+        1.0
+      ],
+      "dose_b_range_uM": [
+        0.00030016,
+        0.3
+      ]
+    },
+    {
+      "pair_id": "D2430+D2431",
+      "drug_a": 2430,
+      "drug_b": 2431,
+      "dose_a_range_uM": [
+        0.01000527,
+        10.0
+      ],
+      "dose_b_range_uM": [
+        0.00100053,
+        1.0
+      ]
+    },
+    {
+      "pair_id": "D2429+D2431",
+      "drug_a": 2429,
+      "drug_b": 2431,
+      "dose_a_range_uM": [
+        0.00100053,
+        1.0
+      ],
+      "dose_b_range_uM": [
+        0.00100053,
+        1.0
+      ]
+    },
+    {
+      "pair_id": "D2428+D2430",
+      "drug_a": 2428,
+      "drug_b": 2430,
+      "dose_a_range_uM": [
+        0.00100053,
+        1.0
+      ],
+      "dose_b_range_uM": [
+        0.01000527,
+        10.0
+      ]
+    },
+    {
+      "pair_id": "D2428+D2434",
+      "drug_a": 2428,
+      "drug_b": 2434,
+      "dose_a_range_uM": [
+        0.00100053,
+        1.0
+      ],
+      "dose_b_range_uM": [
+        0.01000527,
+        10.0
+      ]
+    },
+    {
+      "pair_id": "D2434+D2574",
+      "drug_a": 2434,
+      "drug_b": 2574,
+      "dose_a_range_uM": [
+        0.01000527,
+        10.0
+      ],
+      "dose_b_range_uM": [
+        0.00030016,
+        0.3
+      ]
+    }
+  ],
+  "remaining_wells": 156,
+  "remaining_plates": 1,
+  "rules": {
+    "max_plates": 3,
+    "new_wells_per_plate": 96,
+    "total_wells": 288,
+    "plate_capacity": 1536,
+    "initial_media_uL": 7.5,
+    "dmso_transfer_nL": 15.0,
+    "echo_increment_nL": 2.5,
+    "temperature_C": 37.0,
+    "CO2_percent": 5.0,
+    "exposure_hours": 72.0,
+    "ctg_uL": 2.5,
+    "ctg_wait_minutes": 10,
+    "confirmation_replicates": 3,
+    "score": "100*max(0,HSA benefit), only if expected combination inhibition>=0.50 and independent confirmation is valid.",
+    "note": "Calibrated virtual endpoint assay; novel doses are model predictions, not wet-lab-validated measurements. Control means are reconstructed, control noise is modeled from observed assay residuals."
+  }
+}

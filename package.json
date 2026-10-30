@@ -1,0 +1,1 @@
+{"name":"virtual-assay-replay","private":true,"type":"module","scripts":{"test":"node scripts/test-replay.mjs"}}
