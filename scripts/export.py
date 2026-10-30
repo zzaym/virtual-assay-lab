@@ -16,7 +16,7 @@ def write(path,value):
     path.write_text(json.dumps(value,separators=(",",":"),allow_nan=False))
 
 headers={"X-Operator-Key":(LAB/"runtime/operator.key").read_text().strip()}
-out=ROOT/"dist/data"
+out=ROOT/"data"
 with httpx.Client(base_url="http://127.0.0.1:8780",headers=headers,timeout=90) as client:
     def get(path):
         response=client.get(path);response.raise_for_status();return response.json()
